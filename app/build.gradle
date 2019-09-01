@@ -36,6 +36,10 @@ dependencies {
 // (see https://github.com/ReactiveX/RxJava/releases for latest 2.x.x version)
     implementation 'io.reactivex.rxjava2:rxjava:2.2.12'
 
+    implementation 'com.jakewharton.rxrelay2:rxrelay:2.1.1'
+
+
+
     testImplementation 'junit:junit:4.12'
     androidTestImplementation 'androidx.test:runner:1.2.0'
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.2.0'
